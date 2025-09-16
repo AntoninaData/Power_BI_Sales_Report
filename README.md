@@ -2,7 +2,7 @@
  Power BI project with data modeling, ETL, and interactive dashboards (sales, revenue, profit, KPIs).
 
 
-# 📊 Power BI Capstone Project  
+# 📊 Power BI Sales_Profit Project  
 
 This project demonstrates an end-to-end BI workflow using **Power BI**, covering:  
 - **Data extraction & transformation** (Excel + manual dataset in Power Query).  
