@@ -28,3 +28,6 @@ This project demonstrates an end-to-end BI workflow using **Power BI**, covering
 - **Power Query** (ETL)  
 - **DAX** (calculated measures)  
 - **Power BI Service** (scheduling, alerts)  
+
+
+<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/42b1f28d-5c32-477d-bb9f-cefda202f475" />
