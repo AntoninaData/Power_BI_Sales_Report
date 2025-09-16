@@ -22,8 +22,6 @@ This project demonstrates an end-to-end BI workflow using **Power BI**, covering
 - **Reports**: KPIs, drill-throughs, interactive filters.  
 - **Service**: Published in Power BI Service with scheduled refresh and alerts.  
 
-## 📸 Screenshots  
-(Add screenshots here, e.g. `/images/dashboard1.png`, `/images/dashboard2.png`)  
 
 ## ⚙️ Tools & Technologies  
 - **Power BI Desktop**  
