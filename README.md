@@ -7,7 +7,8 @@
 # Profit_Dashboard:
 
 
-<img width="688" height="385" alt="image" src="https://github.com/user-attachments/assets/e7cf9896-5abf-45cc-b0ff-cdb601b710e4" />
+<img width="723" height="405" alt="image" src="https://github.com/user-attachments/assets/9d30c55e-2365-4619-8649-8e8abe089c3d" />
+
 
 
 
