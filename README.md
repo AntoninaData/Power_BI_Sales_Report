@@ -1,3 +1,17 @@
+# Dashboards 👇
+
+# Sales_Dashboard:
+
+<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/42b1f28d-5c32-477d-bb9f-cefda202f475" />
+
+# Profit_Dashboard:
+
+
+<img width="688" height="385" alt="image" src="https://github.com/user-attachments/assets/e7cf9896-5abf-45cc-b0ff-cdb601b710e4" />
+
+
+
+
 # Power_BI_Sales_Report
  Power BI project with data modeling, ETL, and interactive dashboards (sales, revenue, profit, KPIs).
 
@@ -30,4 +44,7 @@ This project demonstrates an end-to-end BI workflow using **Power BI**, covering
 - **Power BI Service** (scheduling, alerts)  
 
 
-<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/42b1f28d-5c32-477d-bb9f-cefda202f475" />
+
+
+
+
