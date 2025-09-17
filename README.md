@@ -2,7 +2,8 @@
 
 # Sales_Dashboard:
 
-<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/42b1f28d-5c32-477d-bb9f-cefda202f475" />
+<img width="547" height="306" alt="image" src="https://github.com/user-attachments/assets/a221843e-1086-4161-b4ea-9e18dfa94821" />
+
 
 # Profit_Dashboard:
 
